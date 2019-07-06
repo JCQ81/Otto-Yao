@@ -28,7 +28,7 @@ This is not the best one around, so if you're looking for something better pleas
 #### Electronics:
 ![](./images/OY-Layout.png)
 
-![](./images/OY-In1.png)
+![](./images/OY-In1.jpg)
 
 #### 3D models:
 The STL's for printing the casing are available in the submap *models-3d*, where you also can find the source files (FCStd - FreeCad)
