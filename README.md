@@ -1,6 +1,7 @@
 # Otto Yao (Yet Another One)
 
-Another version of the "famous" Otto DIY dancing robot, inspired by the existing movies on YouTube, but rebuild from scratch just because I liked doing it :). It runs on an Arduino Pro Mini board powered by two AAA batteries. Here you can get / download all information to rebuild it. This is not the best one around, so if you're looking for something better please do so!
+Another version of the "famous" Otto DIY dancing robot. Inspired by the existing movies on YouTube, but rebuild from scratch just because I liked doing it all myself. It runs on an Arduino Pro Mini board powered by two AAA batteries. 
+This is not the best one around, so if you're looking for something better please do so!
 
 ##### YouTube:
 [![](https://img.youtube.com/vi/wPCTv5LqKns/0.jpg)](https://www.youtube.com/watch?v=wPCTv5LqKns)
@@ -16,7 +17,7 @@ Another version of the "famous" Otto DIY dancing robot, inspired by the existing
 * 1x Prototype PCB (not required, but very useful)
 * Power cables (red&black)
 * Programming board for the Arduino Pro Mini *(*2)*
-* Soldering station
+* Soldering equipment
 * 3D Printer
 * Glue
 
@@ -26,6 +27,8 @@ Another version of the "famous" Otto DIY dancing robot, inspired by the existing
 
 #### Electronics:
 ![](./images/OY-Layout.png)
+
+![](./images/OY-In1.png)
 
 #### 3D models:
 The STL's for printing the casing are available in the submap *models-3d*, where you also can find the source files (FCStd - FreeCad)
